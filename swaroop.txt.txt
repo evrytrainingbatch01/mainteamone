@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+srinivas added the content to swaroop file
+=======
+hi bro ,hw r u
+>>>>>>> 7ca2f4202f3b3cb924581d1f0f3f87fd72702024
