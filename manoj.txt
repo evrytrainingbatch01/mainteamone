@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi Manoj....GOOD Evng...manoj
+=======
+ hi everyone manoj here
+>>>>>>> 7ca2f4202f3b3cb924581d1f0f3f87fd72702024
