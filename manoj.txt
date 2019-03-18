@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi Manoj....GOOD Evng...manoj
+=======
+manoj
+
+Hi Manoj . this is Srinivas
+>>>>>>> b7b69a6d4e7a48a2def60c1e1b00228263bfc52b
 =======
  hi everyone manoj here
 >>>>>>> 7ca2f4202f3b3cb924581d1f0f3f87fd72702024

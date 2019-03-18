@@ -1,2 +1,6 @@
 Rashmi kiran
+<<<<<<< HEAD
 Today is first day of GIT lecture.
+=======
+hi how are you
+>>>>>>> b7b69a6d4e7a48a2def60c1e1b00228263bfc52b
