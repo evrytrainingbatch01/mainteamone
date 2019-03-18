@@ -1,5 +1,9 @@
 Hi this is Deepak
+<<<<<<< HEAD
+this is chinnabmg
+=======
 
 Software Developer 
 
 From Bangalore 
+>>>>>>> 5e042a7310c441defbe2ff900a4dbaee667e189a
